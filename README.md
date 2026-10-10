@@ -7,8 +7,14 @@
 
 ---
 
-I build data pipelines and tools in Python, mostly with local models on Apple Silicon. Most of my repos are private. A few of them:
+I build tools in Python and JavaScript, mostly with Claude Code but sometimes with local models on Apple Silicon.
 
-- **AT Trekker:** a live Appalachian Trail map fed by a Garmin satellite tracker, with pace-adjusted arrival estimates.
-- **Daily Brief:** a news brief written by a local model and delivered before 6am. *Early stage.*
-- **Resume Builder:** a local model tailors a resume and cover letter to a job posting, and every claim is traced back to a source.
+Most of my professional work belongs to the companies I worked for, so I can't share it because that work is not here.
+
+My repos here are private because many are built for other people, and their information stays with them.
+
+A few I can describe:
+
+- **AT Trekker:** A live Appalachian Trail map fed by a Garmin satellite tracker, with pace-adjusted arrival estimates.
+- **Daily Brief:** A news brief written by a local model and delivered before 6am.
+- **Resume Builder:** A local model tailors a resume and cover letter to a job posting, and every claim is traced back to a source.
