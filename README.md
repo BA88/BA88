@@ -18,3 +18,7 @@ A few I can describe:
 - **AT Trekker:** A live Appalachian Trail map fed by a Garmin satellite tracker, with pace-adjusted arrival estimates.
 - **Daily Brief:** A news brief written by a local model and delivered before 6am.
 - **Resume Builder:** A local model tailors a resume and cover letter to a job posting, and every claim is traced back to a source.
+
+<!-- langs:start -->
+<img src="assets/languages.svg" alt="Most used languages: Python 51.5%, JavaScript 47.3%, Shell 1.1%">
+<!-- langs:end -->
