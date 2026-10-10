@@ -9,7 +9,7 @@
 
 I build tools in Python and JavaScript, mostly with Claude Code but sometimes with local models on Apple Silicon.
 
-Most of my professional work belongs to the companies I worked for, so I can't share it because that work is not here.
+Most of my professional work belongs to the companies I worked for so I cannot share it.
 
 My repos here are private because many are built for other people, and their information stays with them.
 
