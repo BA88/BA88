@@ -1,4 +1,4 @@
-name: Update languages chart
+name: Update Most Used Languages SVG
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Build chart
         env:
