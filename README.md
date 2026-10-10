@@ -18,6 +18,7 @@ A few I can describe:
 - **AT Trekker:** A live Appalachian Trail map fed by a Garmin satellite tracker, with pace-adjusted arrival estimates.
 - **Daily Brief:** A news brief written by a local model and delivered before 6am.
 - **Resume Builder:** A local model tailors a resume and cover letter to a job posting, and every claim is traced back to a source.
+- **The Watcher:** Watches Swappa and refurbished-Mac dealers for a Mac Studio M1 Ultra, keeps a price history, and alerts my phone when a good deal appears. Incorporates Ebay data, too.
 
 ---
 
