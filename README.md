@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I'm BettyAnn</h3>
 
 <p align="center">
-  <a href="https://bettyann88.com/">Website</a> •
-  <a href="https://www.linkedin.com/in/bettyannc/">LinkedIn</a> •
+  <a href="https://bettyann88.com/" target="_blank" rel="noopener noreferrer">Website</a> •
+  <a href="https://www.linkedin.com/in/bettyannc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 ---
