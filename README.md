@@ -1,12 +1,9 @@
-<h3 align="center">Hi, I'm BettyAnn Chodkowski</h3>
+<h3 align="center">Hi, I'm BettyAnn</h3>
 
-<!-- Fill in and uncomment the links you want shown:
 <p align="center">
-  <a href="https://YOUR-SITE">Website</a> •
-  <a href="https://linkedin.com/in/YOUR-HANDLE">LinkedIn</a> •
-  <a href="mailto:YOU@EXAMPLE.COM">Email</a>
+  <a href="https://bettyann88.com/">Website</a> •
+  <a href="https://www.linkedin.com/in/bettyannc/">LinkedIn</a> •
 </p>
--->
 
 ---
 
