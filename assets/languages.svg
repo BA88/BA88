@@ -6,12 +6,12 @@ text { font: 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill:
 <text class="title" x="0" y="24">Most used languages</text>
 <clipPath id="bar"><rect x="0" y="52" width="460" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="0.00" y="52" width="237.11" height="10" fill="#4f7cac"/>
-<rect x="237.11" y="52" width="217.74" height="10" fill="#c0843d"/>
+<rect x="0.00" y="52" width="237.21" height="10" fill="#4f7cac"/>
+<rect x="237.21" y="52" width="217.64" height="10" fill="#c0843d"/>
 <rect x="454.85" y="52" width="5.15" height="10" fill="#6a9f6a"/>
 </g>
 <circle cx="6" cy="87" r="6" fill="#4f7cac"/>
-<text x="20" y="92">Python 51.5%</text>
+<text x="20" y="92">Python 51.6%</text>
 <circle cx="6" cy="115" r="6" fill="#c0843d"/>
 <text x="20" y="120">JavaScript 47.3%</text>
 <circle cx="236" cy="87" r="6" fill="#6a9f6a"/>
