@@ -11,7 +11,7 @@ I build tools in Python and JavaScript, mostly with Claude Code but sometimes wi
 
 Most of my professional work belongs to the companies I worked for so I cannot share it. My [website](https://bettyann88.com/) describes some of that work.
 
-My repos here are private because many are built for other people, and their information stays with them.
+My repos here are private because they are built for other people, and their information stays with them.
 
 A few I can describe:
 
