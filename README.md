@@ -23,5 +23,5 @@ A few I can describe:
 ---
 
 <!-- langs:start -->
-<img src="assets/languages.svg" alt="Most used languages: Python 53.1%, JavaScript 45.7%, Shell 1.1%">
+<img src="assets/languages.svg" alt="Most used languages: Python 53.4%, JavaScript 45.5%, Shell 1.1%">
 <!-- langs:end -->
